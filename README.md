@@ -17,7 +17,7 @@ the layout of cache lines and the ability of the computer to understand access p
 the Array/ArrayList is much faster despite the extra work of copying data over.
 
 ## Usage
-This project is built using CMake. To build the project you must have CMake and installed.
+This project is built using CMake. To build the project you must have CMake installed.
 You can build the project with these commands (assuming Unix Makefile generation).<br/>
 ```
 mkdir build
